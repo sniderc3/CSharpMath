@@ -1,0 +1,14 @@
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\bin\Debug\net7.0\MathClasses.exe
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\bin\Debug\net7.0\MathClasses.deps.json
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\bin\Debug\net7.0\MathClasses.runtimeconfig.json
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\bin\Debug\net7.0\MathClasses.dll
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\bin\Debug\net7.0\MathClasses.pdb
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\obj\Debug\net7.0\MathClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\obj\Debug\net7.0\MathClasses.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\obj\Debug\net7.0\MathClasses.AssemblyInfo.cs
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\obj\Debug\net7.0\MathClasses.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\obj\Debug\net7.0\MathClasses.dll
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\obj\Debug\net7.0\refint\MathClasses.dll
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\obj\Debug\net7.0\MathClasses.pdb
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\obj\Debug\net7.0\MathClasses.genruntimeconfig.cache
+C:\Users\Chris\source\repos\CSharpMath\MathClasses\obj\Debug\net7.0\ref\MathClasses.dll
